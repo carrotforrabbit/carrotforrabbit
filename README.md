@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there!
+I'm Anna. Curerntly I'm a Junior Frontend Developer.
+Here you can find my projects and works. 
+Happy to colloborate!
 
 <!--
 **carrotforrabbit/carrotforrabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
