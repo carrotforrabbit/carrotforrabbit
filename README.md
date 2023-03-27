@@ -1,4 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anna============================================================================================================================I'm a junior Frontend Developer with previous experience in Sales, Customer Success and Support.* 🌍  I'm based in Lisbon* 🧠  I'm learning React and Redux* ⚡  I like food and hiking. I also do handpoke tattoos in my free time that I don't really have :)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anna
+
+I'm a junior Frontend Developer with previous experience in Sales, Customer Success and Support.
+
+🌍  I'm based in Lisbon
+
+ 🧠  I'm learning React and Redux
+ 
+ ⚡  I like food and hiking. I also do handpoke tattoos in my free time that I don't really have :)
 
 ### Skills
 
