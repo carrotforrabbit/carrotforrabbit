@@ -23,5 +23,3 @@ I'm a junior Frontend Developer with previous experience in Sales, Customer Succ
 <a href="http://www.github.com/carrotforrabbit"><img src="https://github-readme-stats.vercel.app/api?username=carrotforrabbit&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=64748b&icon_color=14b8a6&bg_color=181824&hide_border=true&show_icons=true" alt="carrotforrabbit's GitHub stats" /></a>
 
 <a href="http://www.github.com/carrotforrabbit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=carrotforrabbit&stroke=64748b&background=181824&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
-
-<a href="https://github.com/carrotforrabbit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrotforrabbit&langs_count=10&title_color=0891b2&text_color=64748b&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
